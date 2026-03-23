@@ -51,7 +51,7 @@ else:
         st.markdown(
             """
             <div style='text-align: center; padding: 10px;'>
-                <a href='https://gumroad.com/l/fatimaqa-pro' target='_blank' 
+                <a href='https://fatimaflare207.gumroad.com/l/iliohe' target='_blank' 
                    style='background: #6B21A8; color: white; padding: 12px 24px; 
                    border-radius: 8px; text-decoration: none; font-weight: bold;'>
                     🌟 Obtener acceso Pro — 9€
