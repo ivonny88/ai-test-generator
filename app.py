@@ -44,3 +44,18 @@ st.markdown(
     "Desarrollado por **Fátima Ocaña** · QA Engineer · "
     "[GitHub](https://github.com/ivonny88/ai-test-generator)"
 )
+
+st.markdown("---")
+st.markdown(
+    """
+    <div style='text-align: center; padding: 20px;'>
+        <p style='color: #666; font-size: 14px;'>¿Te ha sido útil esta herramienta?</p>
+        <a href='https://buymeacoffee.com/fatimaqa' target='_blank'>
+            <img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' 
+                 alt='Buy Me A Coffee' 
+                 style='height: 50px; width: 180px;'>
+        </a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
