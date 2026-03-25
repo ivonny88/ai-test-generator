@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # --- PRO ACCESS CHECK ---
-PRO_KEY = "FATIMAQA-PRO-2024"
+PRO_KEY = st.secrets.get("PRO_KEY", "")
 
 def is_pro_user():
     return st.session_state.get("pro_unlocked", False)
